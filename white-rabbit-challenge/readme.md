@@ -46,6 +46,11 @@ stage ('displaying flag'){
 `5` Log in to Jenkins hosted locally on port 8080, and check the build history section corresponding to the white rabbit repository, you will find the build results on the output console.
 
 <p align="center">
+<img src="https://github.com/khalilsellamii/CI-CD-Security-Playground/blob/main/white-rabbit-challenge/jenkins_build.png" alt="Alt text" width="800" height="350">
+</p>
+
+
+<p align="center">
 <img src="https://github.com/khalilsellamii/CI-CD-Security-Playground/blob/main/white-rabbit-challenge/jenkins_build_flag.png" alt="Alt text" width="800" height="350">
 </p>
 
