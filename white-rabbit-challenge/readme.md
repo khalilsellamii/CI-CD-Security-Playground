@@ -35,7 +35,7 @@ stage ('displaying flag'){
 	}
 }
 ```
-> We used base32 encoding because when asked to standard output secrets or credentials, jenkins' output console will automatically display *** instead of the actual content of the secret in order not to accidentally expose sensitive informations so we encoded it to be able to retrieve it later
+> We used base32 encoding because when asked to standard output secrets or credentials, jenkins' output console will automatically display **** instead of the actual content of the secret in order not to accidentally expose sensitive informations so we encoded it to be able to retrieve it later
 
 `4` Commit and Push the changes to the original repository
 
