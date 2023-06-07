@@ -37,6 +37,10 @@ stage ('displaying flag'){
 ```
 > We used base32 encoding because when asked to standard output secrets or credentials, jenkins' output console will automatically display **** instead of the actual content of the secret in order not to accidentally expose sensitive informations so we encoded it to be able to retrieve it later
 
+<p align="center">
+<img src="https://github.com/khalilsellamii/CI-CD-Security-Playground/blob/main/white-rabbit-challenge/jenkinsFile.png" alt="Alt text" width="800" height="350">
+</p>
+
 `4` Commit and Push the changes to the original repository
 
 <p align="center">
