@@ -22,7 +22,7 @@ git clone repo_link
 git checkout -b 'white-rabbit-challenge1'
 ```
 Now, open the JenkinsFile with your favorite TextEditor and let's dive into the fun stuff. Modify the stage and its steps to look like :
-> The JenkinsFile conatins the pipeline's jobs auotamatically executed by the jenkins server, so within this file, we will perform our PPE (pipeline poisoning execution) to retrieve the requested flag from the credentials store.
+> The JenkinsFile conatins the pipeline's jobs auotamatically executed by the jenkins server, so within this file, we will perform our PPE (Poisoned Pipeline  Execution) to retrieve the requested flag from the credentials store.
 ```
 stage ('displaying flag'){
 	steps{
