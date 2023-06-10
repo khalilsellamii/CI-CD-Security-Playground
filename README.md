@@ -37,3 +37,8 @@ GitLab is a web-based DevOps platform that provides a complete set of tools and 
 
 ### What is Gitea ?
 Gitea is an open-source self-hosted Git service and web-based Git repository management system. It provides a lightweight and easy-to-use interface for managing Git repositories, issue tracking, code reviews, and collaboration. Gitea is designed to be simple, fast, and highly customizable, making it a popular choice for individuals, small teams, and organizations looking for a self-hosted Git solution.  
+
+## References
+
+`+` CiderSecurity website: https://www.cidersecurity.io  
+`+` CI/CD-GOAT project : https://github.com/cider-security-research/cicd-goat/tree/main
